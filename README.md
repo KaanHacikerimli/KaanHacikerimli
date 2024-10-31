@@ -1,17 +1,16 @@
-<h1 align="center">Hi 👋, I'm Emre</h1>
+<h1 align="center">Hi 👋, I'm Kaan</h1>
 <h3 align="center">Software Engineering student</h3>
 
-- 🔭 I was working on *Tubitak/Hybrid dron with fire detection feature*
-- 🔭 I’m currently working on *KAAN UAV*
-- 🌱 I’m currently learning *Artificial intelligence and Embedded System*
+- 🔭 I’m currently working on *GIRIFT UAV*
 
 
 
-- 📫 How to reach me *@emre.krkmz15@gmail.com*
+
+- 📫 How to reach me *@kaanhckrmli@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/emre-korkmaz-794219239/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emre korkmaz" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kaanhac%C4%B1kerimli/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emre korkmaz" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
